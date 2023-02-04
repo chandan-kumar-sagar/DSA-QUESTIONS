@@ -2,7 +2,8 @@
 using namespace std;
 int main() {
   cout << "hlo dosto..!!" << endl;
-
+  
+//< ------half pyramid----->
   int n;
   cout << "enetr the value" << endl;
   cin >> n;
